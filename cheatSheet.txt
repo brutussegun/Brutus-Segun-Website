@@ -1,6 +1,7 @@
 git status -uall (view status of all files in the directories)
 git rm --cached FILE NAME (remove file from repo)
 git add .
+git add -A (add all files and subfiles and folders)
 git commit -m 'message'
 git push 
 
